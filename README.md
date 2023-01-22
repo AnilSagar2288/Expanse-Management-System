@@ -25,7 +25,7 @@
 1. npm i
 2. cd .\client\
 3. npm i                          // this one is for client node_module
-4  npm run dev
+4. npm run dev
 
 
 
